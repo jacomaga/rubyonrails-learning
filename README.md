@@ -1,29 +1,13 @@
 <<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just download clone the project and install the dependencies. Enter into the project folder and in your terminal enter "ruby bin/rails server" then the project will run locally and you can acces on 127.0.0.1:3000/articles.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version - 3.0.2
 =======
 # rubyonrails-learning
-Repositório para eu deixar projetos e exercícios de livros sobre ruby on rails
+This repository is about the development of the project of the book "Ruby on Rails para iniciantes: O Guia Final do Iniciante para Aprender Rubi sobre Trilhos Passo a Passo".
+You can buy the book on this link: https://www.amazon.com.br/Ruby-Rails-para-iniciantes-Iniciante-ebook/.
 >>>>>>> main
